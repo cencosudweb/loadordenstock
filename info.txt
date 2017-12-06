@@ -1,0 +1,14 @@
+El programa se esta ejecutando...
+Inicio Programa: 30/11/17 04:23:45
+
+sFechaIni: 2017-11-22
+
+sFechaFin: 2017-11-29
+
+Query : SELECT ORDEN,NRO_DE_LINEA,DO_DTL_STATUS,TIPOORDEN,PEDIDO,SKU,CANTIDAD_PENDIENTE,BODEGA,FECHA_CREACION,STAT_CODE,ESTADO FROM ordenes_stock_pendientes WHERE 1 = 1 AND FECHA_CREACION >= '2017-11-22 00:00:00' AND FECHA_CREACION <= '2017-11-29 23:59:59'  
+
+Archivos creados.
+
+Fin Programa: 30/11/17 04:23:45
+
+El programa finalizo.
